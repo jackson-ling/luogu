@@ -1,5 +1,6 @@
 C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir
 C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir
 C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir
+C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir
 C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/jackson/Desktop/luogu/Chapter 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

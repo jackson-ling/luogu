@@ -167,6 +167,19 @@ B2025/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2025.dir\build.make CMakeFiles/B2025.dir/build
 .PHONY : B2025/fast
 
+#=============================================================================
+# Target rules for targets named P1001
+
+# Build rule for target.
+P1001: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P1001
+.PHONY : P1001
+
+# fast build rule for target.
+P1001/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1001.dir\build.make CMakeFiles/P1001.dir/build
+.PHONY : P1001/fast
+
 B2002.obj: B2002.c.obj
 
 .PHONY : B2002.obj
@@ -248,6 +261,33 @@ P1000.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1000.dir\build.make CMakeFiles/P1000.dir/P1000.c.s
 .PHONY : P1000.c.s
 
+P1001.obj: P1001.c.obj
+
+.PHONY : P1001.obj
+
+# target to build an object file
+P1001.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1001.dir\build.make CMakeFiles/P1001.dir/P1001.c.obj
+.PHONY : P1001.c.obj
+
+P1001.i: P1001.c.i
+
+.PHONY : P1001.i
+
+# target to preprocess a source file
+P1001.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1001.dir\build.make CMakeFiles/P1001.dir/P1001.c.i
+.PHONY : P1001.c.i
+
+P1001.s: P1001.c.s
+
+.PHONY : P1001.s
+
+# target to generate assembly for a file
+P1001.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1001.dir\build.make CMakeFiles/P1001.dir/P1001.c.s
+.PHONY : P1001.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -259,6 +299,7 @@ help:
 	@echo ... B2025
 	@echo ... Chapter_1
 	@echo ... P1000
+	@echo ... P1001
 	@echo ... B2002.obj
 	@echo ... B2002.i
 	@echo ... B2002.s
@@ -268,6 +309,9 @@ help:
 	@echo ... P1000.obj
 	@echo ... P1000.i
 	@echo ... P1000.s
+	@echo ... P1001.obj
+	@echo ... P1001.i
+	@echo ... P1001.s
 .PHONY : help
 
 
