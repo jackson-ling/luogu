@@ -155,6 +155,32 @@ Chapter_2/fast:
 .PHONY : Chapter_2/fast
 
 #=============================================================================
+# Target rules for targets named P1046
+
+# Build rule for target.
+P1046: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P1046
+.PHONY : P1046
+
+# fast build rule for target.
+P1046/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1046.dir\build.make CMakeFiles/P1046.dir/build
+.PHONY : P1046/fast
+
+#=============================================================================
+# Target rules for targets named P5716
+
+# Build rule for target.
+P5716: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P5716
+.PHONY : P5716
+
+# fast build rule for target.
+P5716/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5716.dir\build.make CMakeFiles/P5716.dir/build
+.PHONY : P5716/fast
+
+#=============================================================================
 # Target rules for targets named P5709
 
 # Build rule for target.
@@ -166,6 +192,19 @@ P5709: cmake_check_build_system
 P5709/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5709.dir\build.make CMakeFiles/P5709.dir/build
 .PHONY : P5709/fast
+
+#=============================================================================
+# Target rules for targets named P4414
+
+# Build rule for target.
+P4414: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P4414
+.PHONY : P4414
+
+# fast build rule for target.
+P4414/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P4414.dir\build.make CMakeFiles/P4414.dir/build
+.PHONY : P4414/fast
 
 #=============================================================================
 # Target rules for targets named P5710
@@ -232,6 +271,286 @@ P5715/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5715.dir\build.make CMakeFiles/P5715.dir/build
 .PHONY : P5715/fast
 
+#=============================================================================
+# Target rules for targets named P1085
+
+# Build rule for target.
+P1085: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P1085
+.PHONY : P1085
+
+# fast build rule for target.
+P1085/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1085.dir\build.make CMakeFiles/P1085.dir/build
+.PHONY : P1085/fast
+
+#=============================================================================
+# Target rules for targets named P1909wa
+
+# Build rule for target.
+P1909wa: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P1909wa
+.PHONY : P1909wa
+
+# fast build rule for target.
+P1909wa/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1909wa.dir\build.make CMakeFiles/P1909wa.dir/build
+.PHONY : P1909wa/fast
+
+#=============================================================================
+# Target rules for targets named P5717wa
+
+# Build rule for target.
+P5717wa: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P5717wa
+.PHONY : P5717wa
+
+# fast build rule for target.
+P5717wa/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5717wa.dir\build.make CMakeFiles/P5717wa.dir/build
+.PHONY : P5717wa/fast
+
+#=============================================================================
+# Target rules for targets named P1422
+
+# Build rule for target.
+P1422: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P1422
+.PHONY : P1422
+
+# fast build rule for target.
+P1422/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1422.dir\build.make CMakeFiles/P1422.dir/build
+.PHONY : P1422/fast
+
+#=============================================================================
+# Target rules for targets named P1424
+
+# Build rule for target.
+P1424: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P1424
+.PHONY : P1424
+
+# fast build rule for target.
+P1424/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1424.dir\build.make CMakeFiles/P1424.dir/build
+.PHONY : P1424/fast
+
+#=============================================================================
+# Target rules for targets named P1888
+
+# Build rule for target.
+P1888: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P1888
+.PHONY : P1888
+
+# fast build rule for target.
+P1888/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1888.dir\build.make CMakeFiles/P1888.dir/build
+.PHONY : P1888/fast
+
+#=============================================================================
+# Target rules for targets named P1055
+
+# Build rule for target.
+P1055: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 P1055
+.PHONY : P1055
+
+# fast build rule for target.
+P1055/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1055.dir\build.make CMakeFiles/P1055.dir/build
+.PHONY : P1055/fast
+
+P1046.obj: P1046.c.obj
+
+.PHONY : P1046.obj
+
+# target to build an object file
+P1046.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1046.dir\build.make CMakeFiles/P1046.dir/P1046.c.obj
+.PHONY : P1046.c.obj
+
+P1046.i: P1046.c.i
+
+.PHONY : P1046.i
+
+# target to preprocess a source file
+P1046.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1046.dir\build.make CMakeFiles/P1046.dir/P1046.c.i
+.PHONY : P1046.c.i
+
+P1046.s: P1046.c.s
+
+.PHONY : P1046.s
+
+# target to generate assembly for a file
+P1046.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1046.dir\build.make CMakeFiles/P1046.dir/P1046.c.s
+.PHONY : P1046.c.s
+
+P1055.obj: P1055.c.obj
+
+.PHONY : P1055.obj
+
+# target to build an object file
+P1055.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1055.dir\build.make CMakeFiles/P1055.dir/P1055.c.obj
+.PHONY : P1055.c.obj
+
+P1055.i: P1055.c.i
+
+.PHONY : P1055.i
+
+# target to preprocess a source file
+P1055.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1055.dir\build.make CMakeFiles/P1055.dir/P1055.c.i
+.PHONY : P1055.c.i
+
+P1055.s: P1055.c.s
+
+.PHONY : P1055.s
+
+# target to generate assembly for a file
+P1055.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1055.dir\build.make CMakeFiles/P1055.dir/P1055.c.s
+.PHONY : P1055.c.s
+
+P1085wa.obj: P1085wa.c.obj
+
+.PHONY : P1085wa.obj
+
+# target to build an object file
+P1085wa.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1085.dir\build.make CMakeFiles/P1085.dir/P1085wa.c.obj
+.PHONY : P1085wa.c.obj
+
+P1085wa.i: P1085wa.c.i
+
+.PHONY : P1085wa.i
+
+# target to preprocess a source file
+P1085wa.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1085.dir\build.make CMakeFiles/P1085.dir/P1085wa.c.i
+.PHONY : P1085wa.c.i
+
+P1085wa.s: P1085wa.c.s
+
+.PHONY : P1085wa.s
+
+# target to generate assembly for a file
+P1085wa.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1085.dir\build.make CMakeFiles/P1085.dir/P1085wa.c.s
+.PHONY : P1085wa.c.s
+
+P1422.obj: P1422.c.obj
+
+.PHONY : P1422.obj
+
+# target to build an object file
+P1422.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1422.dir\build.make CMakeFiles/P1422.dir/P1422.c.obj
+.PHONY : P1422.c.obj
+
+P1422.i: P1422.c.i
+
+.PHONY : P1422.i
+
+# target to preprocess a source file
+P1422.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1422.dir\build.make CMakeFiles/P1422.dir/P1422.c.i
+.PHONY : P1422.c.i
+
+P1422.s: P1422.c.s
+
+.PHONY : P1422.s
+
+# target to generate assembly for a file
+P1422.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1422.dir\build.make CMakeFiles/P1422.dir/P1422.c.s
+.PHONY : P1422.c.s
+
+P1424wa.obj: P1424wa.c.obj
+
+.PHONY : P1424wa.obj
+
+# target to build an object file
+P1424wa.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1424.dir\build.make CMakeFiles/P1424.dir/P1424wa.c.obj
+.PHONY : P1424wa.c.obj
+
+P1424wa.i: P1424wa.c.i
+
+.PHONY : P1424wa.i
+
+# target to preprocess a source file
+P1424wa.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1424.dir\build.make CMakeFiles/P1424.dir/P1424wa.c.i
+.PHONY : P1424wa.c.i
+
+P1424wa.s: P1424wa.c.s
+
+.PHONY : P1424wa.s
+
+# target to generate assembly for a file
+P1424wa.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1424.dir\build.make CMakeFiles/P1424.dir/P1424wa.c.s
+.PHONY : P1424wa.c.s
+
+P1888.obj: P1888.c.obj
+
+.PHONY : P1888.obj
+
+# target to build an object file
+P1888.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1888.dir\build.make CMakeFiles/P1888.dir/P1888.c.obj
+.PHONY : P1888.c.obj
+
+P1888.i: P1888.c.i
+
+.PHONY : P1888.i
+
+# target to preprocess a source file
+P1888.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1888.dir\build.make CMakeFiles/P1888.dir/P1888.c.i
+.PHONY : P1888.c.i
+
+P1888.s: P1888.c.s
+
+.PHONY : P1888.s
+
+# target to generate assembly for a file
+P1888.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1888.dir\build.make CMakeFiles/P1888.dir/P1888.c.s
+.PHONY : P1888.c.s
+
+P1909wa.obj: P1909wa.c.obj
+
+.PHONY : P1909wa.obj
+
+# target to build an object file
+P1909wa.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1909wa.dir\build.make CMakeFiles/P1909wa.dir/P1909wa.c.obj
+.PHONY : P1909wa.c.obj
+
+P1909wa.i: P1909wa.c.i
+
+.PHONY : P1909wa.i
+
+# target to preprocess a source file
+P1909wa.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1909wa.dir\build.make CMakeFiles/P1909wa.dir/P1909wa.c.i
+.PHONY : P1909wa.c.i
+
+P1909wa.s: P1909wa.c.s
+
+.PHONY : P1909wa.s
+
+# target to generate assembly for a file
+P1909wa.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1909wa.dir\build.make CMakeFiles/P1909wa.dir/P1909wa.c.s
+.PHONY : P1909wa.c.s
+
 P2433.obj: P2433.c.obj
 
 .PHONY : P2433.obj
@@ -258,6 +577,33 @@ P2433.s: P2433.c.s
 P2433.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter_2.dir\build.make CMakeFiles/Chapter_2.dir/P2433.c.s
 .PHONY : P2433.c.s
+
+P4414.obj: P4414.c.obj
+
+.PHONY : P4414.obj
+
+# target to build an object file
+P4414.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P4414.dir\build.make CMakeFiles/P4414.dir/P4414.c.obj
+.PHONY : P4414.c.obj
+
+P4414.i: P4414.c.i
+
+.PHONY : P4414.i
+
+# target to preprocess a source file
+P4414.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P4414.dir\build.make CMakeFiles/P4414.dir/P4414.c.i
+.PHONY : P4414.c.i
+
+P4414.s: P4414.c.s
+
+.PHONY : P4414.s
+
+# target to generate assembly for a file
+P4414.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P4414.dir\build.make CMakeFiles/P4414.dir/P4414.c.s
+.PHONY : P4414.c.s
 
 P5709.obj: P5709.c.obj
 
@@ -448,6 +794,60 @@ P5715.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5715.dir\build.make CMakeFiles/P5715.dir/P5715.c.s
 .PHONY : P5715.c.s
 
+P5716.obj: P5716.c.obj
+
+.PHONY : P5716.obj
+
+# target to build an object file
+P5716.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5716.dir\build.make CMakeFiles/P5716.dir/P5716.c.obj
+.PHONY : P5716.c.obj
+
+P5716.i: P5716.c.i
+
+.PHONY : P5716.i
+
+# target to preprocess a source file
+P5716.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5716.dir\build.make CMakeFiles/P5716.dir/P5716.c.i
+.PHONY : P5716.c.i
+
+P5716.s: P5716.c.s
+
+.PHONY : P5716.s
+
+# target to generate assembly for a file
+P5716.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5716.dir\build.make CMakeFiles/P5716.dir/P5716.c.s
+.PHONY : P5716.c.s
+
+P5717wa.obj: P5717wa.c.obj
+
+.PHONY : P5717wa.obj
+
+# target to build an object file
+P5717wa.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5717wa.dir\build.make CMakeFiles/P5717wa.dir/P5717wa.c.obj
+.PHONY : P5717wa.c.obj
+
+P5717wa.i: P5717wa.c.i
+
+.PHONY : P5717wa.i
+
+# target to preprocess a source file
+P5717wa.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5717wa.dir\build.make CMakeFiles/P5717wa.dir/P5717wa.c.i
+.PHONY : P5717wa.c.i
+
+P5717wa.s: P5717wa.c.s
+
+.PHONY : P5717wa.s
+
+# target to generate assembly for a file
+P5717wa.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\P5717wa.dir\build.make CMakeFiles/P5717wa.dir/P5717wa.c.s
+.PHONY : P5717wa.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -457,6 +857,14 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Chapter_2
+	@echo ... P1046
+	@echo ... P1055
+	@echo ... P1085
+	@echo ... P1422
+	@echo ... P1424
+	@echo ... P1888
+	@echo ... P1909wa
+	@echo ... P4414
 	@echo ... P5709
 	@echo ... P5710
 	@echo ... P5711
@@ -464,9 +872,35 @@ help:
 	@echo ... P5713
 	@echo ... P5714
 	@echo ... P5715
+	@echo ... P5716
+	@echo ... P5717wa
+	@echo ... P1046.obj
+	@echo ... P1046.i
+	@echo ... P1046.s
+	@echo ... P1055.obj
+	@echo ... P1055.i
+	@echo ... P1055.s
+	@echo ... P1085wa.obj
+	@echo ... P1085wa.i
+	@echo ... P1085wa.s
+	@echo ... P1422.obj
+	@echo ... P1422.i
+	@echo ... P1422.s
+	@echo ... P1424wa.obj
+	@echo ... P1424wa.i
+	@echo ... P1424wa.s
+	@echo ... P1888.obj
+	@echo ... P1888.i
+	@echo ... P1888.s
+	@echo ... P1909wa.obj
+	@echo ... P1909wa.i
+	@echo ... P1909wa.s
 	@echo ... P2433.obj
 	@echo ... P2433.i
 	@echo ... P2433.s
+	@echo ... P4414.obj
+	@echo ... P4414.i
+	@echo ... P4414.s
 	@echo ... P5709.obj
 	@echo ... P5709.i
 	@echo ... P5709.s
@@ -488,6 +922,12 @@ help:
 	@echo ... P5715.obj
 	@echo ... P5715.i
 	@echo ... P5715.s
+	@echo ... P5716.obj
+	@echo ... P5716.i
+	@echo ... P5716.s
+	@echo ... P5717wa.obj
+	@echo ... P5717wa.i
+	@echo ... P5717wa.s
 .PHONY : help
 
 

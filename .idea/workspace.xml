@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a52be50-1e9c-4e02-84c1-ceaf5f4bbb48" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/luogu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir/B2025.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir/B2002.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir/P1000.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir/C.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir/P1001.c.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1/output/P1000.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/3.19.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/B2025.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Chapter_1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1000.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/P1001.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/Chapter_1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/Chapter_1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5709.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5709.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5710.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5710.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5711.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5711.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5712.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5712.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5713.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5713.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5714.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5714.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5715.dir/P5715.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5715.dir/P5715.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5715.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5715.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5715.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/P5715.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/Chapter_2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/Chapter_2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/P5715.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/P5715.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2tR2mTyEVgWvfL4bzbGWbN0zQS1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter 2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3a52be50-1e9c-4e02-84c1-ceaf5f4bbb48" name="默认变更列表" comment="" />
+      <created>1740300725178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740300725178</updated>
+      <workItem from="1740300726327" duration="60000" />
+      <workItem from="1742185696118" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

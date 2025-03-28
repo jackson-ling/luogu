@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+<<<<<<< HEAD
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeCCompiler.cmake.in"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeCCompilerABI.c"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeCInformation.cmake"
@@ -21,10 +22,16 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeDetermineSystem.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeFindBinUtils.cmake"
+=======
+  "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeCInformation.cmake"
+  "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake"
+  "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeFindCodeBlocks.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeGenericSystem.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake"
+<<<<<<< HEAD
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeMinGWFindMake.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeParseImplicitIncludeInfo.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeParseImplicitLinkInfo.cmake"
@@ -74,6 +81,14 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/Compiler/XLClang-C-DetermineCompiler.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/Internal/FeatureTesting.cmake"
+=======
+  "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeRCInformation.cmake"
+  "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake"
+  "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake"
+  "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+  "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/Compiler/GNU-C.cmake"
+  "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/Compiler/GNU.cmake"
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/Platform/Windows-GNU-C-ABI.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/Platform/Windows-GNU-C.cmake"
   "C:/Program Files/JetBrains/CLion 2021.1.3/bin/cmake/win/share/cmake-3.19/Modules/Platform/Windows-GNU.cmake"
@@ -95,16 +110,20 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+<<<<<<< HEAD
   "CMakeFiles/3.19.2/CMakeSystem.cmake"
   "CMakeFiles/3.19.2/CMakeCCompiler.cmake"
   "CMakeFiles/3.19.2/CMakeRCCompiler.cmake"
   "CMakeFiles/3.19.2/CMakeCCompiler.cmake"
+=======
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/Chapter_1.dir/DependInfo.cmake"
+<<<<<<< HEAD
   "CMakeFiles/B2025.dir/DependInfo.cmake"
   "CMakeFiles/P5703.dir/DependInfo.cmake"
   "CMakeFiles/P1000.dir/DependInfo.cmake"
@@ -120,4 +139,9 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/P3954.dir/DependInfo.cmake"
   "CMakeFiles/P1425.dir/DependInfo.cmake"
   "CMakeFiles/B2005.dir/DependInfo.cmake"
+=======
+  "CMakeFiles/P1000.dir/DependInfo.cmake"
+  "CMakeFiles/B2025.dir/DependInfo.cmake"
+  "CMakeFiles/P1001.dir/DependInfo.cmake"
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
   )

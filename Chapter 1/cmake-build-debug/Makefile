@@ -142,6 +142,7 @@ Chapter_1/fast:
 .PHONY : Chapter_1/fast
 
 #=============================================================================
+<<<<<<< HEAD
 # Target rules for targets named B2025
 
 # Build rule for target.
@@ -168,6 +169,8 @@ P5703/fast:
 .PHONY : P5703/fast
 
 #=============================================================================
+=======
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
 # Target rules for targets named P1000
 
 # Build rule for target.
@@ -181,6 +184,22 @@ P1000/fast:
 .PHONY : P1000/fast
 
 #=============================================================================
+<<<<<<< HEAD
+=======
+# Target rules for targets named B2025
+
+# Build rule for target.
+B2025: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 B2025
+.PHONY : B2025
+
+# fast build rule for target.
+B2025/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2025.dir\build.make CMakeFiles/B2025.dir/build
+.PHONY : B2025/fast
+
+#=============================================================================
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
 # Target rules for targets named P1001
 
 # Build rule for target.
@@ -193,6 +212,7 @@ P1001/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1001.dir\build.make CMakeFiles/P1001.dir/build
 .PHONY : P1001/fast
 
+<<<<<<< HEAD
 #=============================================================================
 # Target rules for targets named P5704
 
@@ -336,6 +356,8 @@ B2005/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2005.dir\build.make CMakeFiles/B2005.dir/build
 .PHONY : B2005/fast
 
+=======
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
 B2002.obj: B2002.c.obj
 
 .PHONY : B2002.obj
@@ -363,6 +385,7 @@ B2002.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Chapter_1.dir\build.make CMakeFiles/Chapter_1.dir/B2002.c.s
 .PHONY : B2002.c.s
 
+<<<<<<< HEAD
 B2005.obj: B2005.c.obj
 
 .PHONY : B2005.obj
@@ -390,6 +413,8 @@ B2005.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2005.dir\build.make CMakeFiles/B2005.dir/B2005.c.s
 .PHONY : B2005.c.s
 
+=======
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
 B2025.obj: B2025.c.obj
 
 .PHONY : B2025.obj
@@ -417,6 +442,7 @@ B2025.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2025.dir\build.make CMakeFiles/B2025.dir/B2025.c.s
 .PHONY : B2025.c.s
 
+<<<<<<< HEAD
 B2029.obj: B2029.c.obj
 
 .PHONY : B2029.obj
@@ -444,6 +470,8 @@ B2029.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\B2029.dir\build.make CMakeFiles/B2029.dir/B2029.c.s
 .PHONY : B2029.c.s
 
+=======
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
 P1000.obj: P1000.c.obj
 
 .PHONY : P1000.obj
@@ -498,6 +526,7 @@ P1001.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\P1001.dir\build.make CMakeFiles/P1001.dir/P1001.c.s
 .PHONY : P1001.c.s
 
+<<<<<<< HEAD
 P1421.obj: P1421.c.obj
 
 .PHONY : P1421.obj
@@ -768,6 +797,8 @@ practise.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\practise.dir\build.make CMakeFiles/practise.dir/practise.c.s
 .PHONY : practise.c.s
 
+=======
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -776,6 +807,7 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+<<<<<<< HEAD
 	@echo ... B2005
 	@echo ... B2025
 	@echo ... B2029
@@ -804,12 +836,25 @@ help:
 	@echo ... B2029.obj
 	@echo ... B2029.i
 	@echo ... B2029.s
+=======
+	@echo ... B2025
+	@echo ... Chapter_1
+	@echo ... P1000
+	@echo ... P1001
+	@echo ... B2002.obj
+	@echo ... B2002.i
+	@echo ... B2002.s
+	@echo ... B2025.obj
+	@echo ... B2025.i
+	@echo ... B2025.s
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
 	@echo ... P1000.obj
 	@echo ... P1000.i
 	@echo ... P1000.s
 	@echo ... P1001.obj
 	@echo ... P1001.i
 	@echo ... P1001.s
+<<<<<<< HEAD
 	@echo ... P1421.obj
 	@echo ... P1421.i
 	@echo ... P1421.s
@@ -840,6 +885,8 @@ help:
 	@echo ... practise.obj
 	@echo ... practise.i
 	@echo ... practise.s
+=======
+>>>>>>> e6222451b05f0f5aff0466b4cdb976142bfd4259
 .PHONY : help
 
 
